@@ -3,10 +3,10 @@
   [<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
   <img src="https://komarev.com/ghpvc/?username=super0326&label=Profile%20views&color=0e75b6&style=flat" alt="super0326" />
   
-  [gmail]: mailto:superdev678@gmail.com
-  [telegram]: https://t.me/solozekan
+  [gmail]: mailto:superdev0777@gmail.com
+  [telegram]: https://t.me/cryptodev0777
   
-  Hi, I'm 🥇[SuperBunny](https://t.me/solozekan/)🥇 , As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
+  Hi, I'm 🥇[SuperBunny](https://t.me/cryptodev0777/)🥇 , As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
 My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
 
@@ -26,9 +26,9 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 
 ### Connect with me:
 
-- 💬 Telegram : [@solozekan](https://t.me/solozekan)
+- 💬 Telegram : [@cryptodev0777](https://t.me/cryptodev0777)
 - 📧 Email : solochaindev@gmail.com
-- 🌐 Website : [www.solochaindev.me](https://www.solochaindev.me/)
+<!-- - 🌐 Website : [www.solochaindev.me](https://www.solochaindev.me/) -->
 
 ### Languages and Tools:
  
@@ -54,10 +54,10 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 <table>
     <thead align="center">
         <tr>
-            <td>InstantXRP</td>
-            <td>FortCake</td>           
+            <td>GoldMint Finance</td>
+            <td>Lovepot finance</td>           
             <td>OlympusFork</td>
-            <td>ApexFinance</td>
+            <td>Titano finance</td>
         </tr>
     </thead>
     <tr>
