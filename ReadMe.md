@@ -1,7 +1,7 @@
 ### Hello, there  
   [<img align="left" alt="Techrate | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
   [<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-  <img src="https://komarev.com/ghpvc/?username=Richard382&label=Profile%20views&color=0e75b6&style=flat" alt="Richard382" />
+  <img src="https://komarev.com/ghpvc/?username=super0326&label=Profile%20views&color=0e75b6&style=flat" alt="super0326" />
   
   [gmail]: mailto:superdev0777@gmail.com
   [telegram]: https://t.me/cryptodev0777
@@ -43,7 +43,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-| <a href="https://github.com/Richard382?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Richard382&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Super's github stats" /> </a>| <a href="https://github.com/Richard382?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard382&layout=compact&theme=buefy&hide_border=true" /> </a> |
+| <a href="https://github.com/super0326?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=super0326&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Super's github stats" /> </a>| <a href="https://github.com/super0326?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=super0326&layout=compact&theme=buefy&hide_border=true" /> </a> |
 | ------------- | ------------- |
 
 <!--   GitHub stats graph -->
