@@ -47,7 +47,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 | ------------- | ------------- |
 
 <!--   GitHub stats graph -->
-![super0326's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=super0326&hide_border=true&theme=github-light)
+![super0326's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Richard382&hide_border=true&theme=github-light)
 
 ### My Portfolio:
 
