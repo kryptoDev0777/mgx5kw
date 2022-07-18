@@ -78,7 +78,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
         </td>
         <td>
             <a href="https://titano.finance/" target="_blank">
-                <img src="https://raw.githubusercontent.com/Richard382/Richard382/main/Portfolio/titano.png" width="200">
+                <img src="https://raw.githubusercontent.com/Richard382/Richard382/main/Portfolio/Titano.png" width="200">
             </a>
         </td>                
     </tr>
