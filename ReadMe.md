@@ -1,9 +1,9 @@
 ### Hello, there  
   [<img align="left" alt="Techrate | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
   [<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-  <img src="https://komarev.com/ghpvc/?username=super0326&label=Profile%20views&color=0e75b6&style=flat" alt="super0326" />  
+  <img src="https://komarev.com/ghpvc/?username=Richard382&label=Profile%20views&color=0e75b6&style=flat" alt="Richard382" />  
   [gmail]: mailto:alexsandrstojano@gmail.com
-  [telegram]: https://t.me/aleksandar0777
+  [telegram]: https://t.me/cryptodev0777
   
   Hi, I'm 🥇[SuperKitty](https://t.me/cryptodev0777/)🥇 , As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
@@ -24,8 +24,8 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 
 ### Connect with me:
 
-- 💬 Telegram : [@aleksandar0777](https://t.me/aleksandar0777)
-- 📧 Email : alexsandrstojano@gmail.com
+- 💬 Telegram : [@cryptodev0777](https://t.me/cryptodev0777)
+- 📧 Email : superdev0777@gmail.com
 <!-- - 🌐 Website : [www.solochaindev.me](https://www.solochaindev.me/) -->
 
 ### Languages and Tools:
