@@ -22,7 +22,6 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
   <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="320" />
 </div>
 
-
 ### Connect with me:
 
 - 💬 Telegram : [@cryptodev0777](https://t.me/cryptodev0777)
