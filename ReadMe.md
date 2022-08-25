@@ -12,7 +12,7 @@ My major skills are blockchain-based web and mobile application development. I h
 
 I have developed sites using PHP, Laravel, WordPress, Codeigniter, and Python/Django/Flask and much more.
 
-Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React, Angular and Vue.
+Especially I have rich experience with the latest Javascript frameworks such as React, Angular and Vue.
 
 I had already built so many Websites with the mentioned skill.
 
