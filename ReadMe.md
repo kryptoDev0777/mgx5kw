@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Richard382&label=Profile%20views&color=0e75b6&style=flat" alt="Richard382" />  
 
   [gmail]: mailto:alexsandrstojano@gmail.com
-  [telegram]: https://t.me/cryptodev0777
+  [telegram]: https://t.me/cryptodev0777   
      
   Hi, I'm 🥇[SuperKitty](https://t.me/cryptodev0777/)🥇, As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
