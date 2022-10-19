@@ -1,7 +1,7 @@
 ### Hello, there  
   [<img align="left" alt="Techrate | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
   [<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-  <img src="https://komarev.com/ghpvc/?username=Richard382&label=Profile%20views&color=0e75b6&style=flat" alt="Richard382" />  
+  <img src="https://komarev.com/ghpvc/?username=mgx5kw&label=Profile%20views&color=0e75b6&style=flat" alt="mgx5kw" />  
 
   [gmail]: mailto:alexsandrstojano@gmail.com
   [telegram]: https://t.me/cryptodev0777   
@@ -41,11 +41,11 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-| <a href="https://github.com/richard382?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=richard382&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Super's github stats" /> </a>| <a href="https://github.com/richard382?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard382&layout=compact&theme=buefy&hide_border=true" /> </a> |
+| <a href="https://github.com/mgx5kw?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mgx5kw&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Super's github stats" /> </a>| <a href="https://github.com/mgx5kw?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgx5kw&layout=compact&theme=buefy&hide_border=true" /> </a> |
 | ------------- | ------------- |
 
 <!--   GitHub stats graph -->
-![Richard382's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Richard382&hide_border=true&theme=github-light)
+![mgx5kw's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mgx5kw&hide_border=true&theme=github-light)
 
 ### My Portfolio:
 
@@ -61,22 +61,22 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
     <tr>
         <td>
             <a href="https://goldmint.finance/" target="_blank">
-                <img src="https://raw.githubusercontent.com/Richard382/Richard382/main/Portfolio/tomb-2.png" width="200">
+                <img src="https://raw.githubusercontent.com/mgx5kw/mgx5kw/main/Portfolio/tomb-2.png" width="200">
             </a>
         </td>
         <td>
             <a href="https://lovepot.finance/" target="_blank">
-                <img src="https://raw.githubusercontent.com/Richard382/Richard382/main/Portfolio/pancake.png" width="200">
+                <img src="https://raw.githubusercontent.com/mgx5kw/mgx5kw/main/Portfolio/pancake.png" width="200">
             </a>
         </td> 
         <td>
             <a href="https://app.olympusdao.finance/" target="_blank">
-                <img src="https://raw.githubusercontent.com/Richard382/Richard382/main/Portfolio/olympus.png" width="200">
+                <img src="https://raw.githubusercontent.com/mgx5kw/mgx5kw/main/Portfolio/olympus.png" width="200">
             </a>
         </td>
         <td>
             <a href="https://titano.finance/" target="_blank">
-                <img src="https://raw.githubusercontent.com/Richard382/Richard382/main/Portfolio/Titano.png" width="200">
+                <img src="https://raw.githubusercontent.com/mgx5kw/mgx5kw/main/Portfolio/Titano.png" width="200">
             </a>
         </td>                
     </tr>
