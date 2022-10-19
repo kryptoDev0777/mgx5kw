@@ -6,7 +6,7 @@
   [gmail]: mailto:alexsandrstojano@gmail.com
   [telegram]: https://t.me/cryptodev0777   
      
-  Hi, I'm 🥇[SuperKitty](https://t.me/cryptodev0777/)🥇, As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
+  Hi, I'm 🥇[Aleksandar](https://t.me/cryptodev0777/)🥇, As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
 My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Fantasm, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
 
