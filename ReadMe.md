@@ -3,10 +3,10 @@
   [<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
   <img src="https://komarev.com/ghpvc/?username=richard382&label=Profile%20views&color=0e75b6&style=flat" alt="mgx5kw" />  
 
-  [gmail]: mailto:alexsandrstojano@gmail.com
+  [gmail]: mailto:superdev0777@gmail.com
   [telegram]: https://t.me/cryptodev0777   
      
-  Hi, I'm 🥇[Aleksandar](https://t.me/cryptodev0777/)🥇, As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
+  Hi, I'm a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
 My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Fantasm, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
 
@@ -25,8 +25,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 ### Connect with me:
 
 - 💬 Telegram : [@cryptodev0777](https://t.me/cryptodev0777)
-- 📧 Email : alexsandrstojano@gmail.com
-- 🌐 Website : [www.aleksandar.vercel.app](https://www.aleksandar.vercel.app/)
+- 📧 Email : superdev0777@gmail.com
 
 ### Languages and Tools:
  
