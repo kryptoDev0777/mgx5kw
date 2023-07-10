@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=richard382&label=Profile%20views&color=0e75b6&style=flat" alt="mgx5kw" />  
 
   [gmail]: mailto:superdev0777@gmail.com
-  [telegram]: https://t.me/cryptodev0777   
+  [telegram]: https://t.me/blockchainleaddev07   
      
   Hi, I'm a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
@@ -24,7 +24,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
   
 ### Connect with me:
 
-<!-- - 💬 Telegram : [@cryptodev0777](https://t.me/cryptodev0777) -->
+- 💬 Telegram : [@blockchainleaddev07](https://t.me/blockchainleaddev07)
 - 📧 Email : superdev0777@gmail.com
 
 ### Languages and Tools:
