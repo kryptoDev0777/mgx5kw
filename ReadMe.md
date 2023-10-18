@@ -24,8 +24,8 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
   
 ### Connect with me:
 
-- 💬 Telegram : [@blockchainleaddev07](https://t.me/blockchainleaddev07)
-- 📧 Email : superdev0777@gmail.com
+<!--- 💬 Telegram : [@blockchainleaddev07](https://t.me/blockchainleaddev07) -->
+<!--- 📧 Email : superdev0777@gmail.com -->
 
 ### Languages and Tools:
  
