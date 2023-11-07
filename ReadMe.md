@@ -1,9 +1,9 @@
 ### Hello, there  
-  [<img align="left" alt="Techrate | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+ <!--- [<img align="left" alt="Techrate | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail] -->
   [<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
   <img src="https://komarev.com/ghpvc/?username=richard382&label=Profile%20views&color=0e75b6&style=flat" alt="mgx5kw" />  
 
- <!--- [gmail]: mailto:superdev0777@gmail.com -->
+  [gmail]: mailto:superdev0777@gmail.com 
   [telegram]: https://t.me/dmytro13445
      
   Hi, I'm a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
